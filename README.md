@@ -1,8 +1,8 @@
-#Github Repo Finder
+# Github Repo Finder
 
 This repository contains a web application built with Django, which interfaces with a Github API. It enables users to interact with the API's data, storing and retrieving information from a relational database.
 
-#Project Setup
+# Project Setup
 
 1. Clone the repository
 
